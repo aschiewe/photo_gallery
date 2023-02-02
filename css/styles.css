@@ -1,0 +1,3 @@
+a.download-link, a:hover.download-link, a:link.download-link, a:visited.download-link, a:active.download-link{
+    color: red;
+}
